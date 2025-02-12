@@ -1,3 +1,35 @@
+# Binary Logic CLI
+> Install nodejs first on your machine
+## Installation
+  - **Clone the repository or download the script.**
+  - **Ensure you have Node.js installed.**
+## Usage
+  - **Run the script using Node.js with the following syntax:**
+  ```shell
+    node script.js <operand1> <operator> <operand2>
+  ``` 
+## Operators
+
+  - `ET` (AND operation)
+  - `OU` (OR operation)
+  - `NON` (NOT operation, only needs one operand)
+  - `IMPLIQUE` (Implication operation)
+## Examples
+
+  ```shell
+    node script.js 1 ET 0
+    # Output: 0
+
+    node script.js 1 OU 0
+    # Output: 1
+
+    node script.js 1 NON
+    # Output: 0
+
+    node script.js 1 IMPLIQUE 0
+    # Output: 0
+  ```
+
 # Algorithms Collection
 
 Explore a range of powerful algorithms implemented in Python 3.12.6, Typescript. This repository includes efficient solutions for key algorithmic challenges, focusing on recursion, backtracking, and number theory.
@@ -19,8 +51,9 @@ Explore a range of powerful algorithms implemented in Python 3.12.6, Typescript.
 
 - 🔗 [CheckParity01](https://github.com/TsitouhRanjafy/Python/blob/parity/parity.py)  
     - 1- Verification of parity 0 and 1 only **`isHasParity_0_1(list,i,q,contient1,contient0)`**
-            
 
+- 🔗 [Binary Logic CLI](https://github.com/TsitouhRanjafy/Python/blob/parity/parity.py)  
+    - Simple command-line interface (CLI) tool for performing basic binary logic operations: `AND`(ET),`OR`(OU), `NOT`(NON),`IMPLICATION`(IMPLIQUE)
 
 ## 🚀 Features
 - Written in Python 3.12.6
