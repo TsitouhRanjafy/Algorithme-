@@ -6,7 +6,7 @@
 ## Usage
   - **Run the script using Node.js with the following syntax:**
   ```shell
-    node script.js <operand1> <operator> <operand2>
+    tsc main.ts && node main.js <operand1> <operator> <operand2>
   ``` 
 ## Operators
 
