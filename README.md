@@ -1,8 +1,16 @@
-# Binary Logic CLI
+# Binary Logic CLI 
+> [!NOTE]
 > Install nodejs first on your machine
 ## Installation
   - **Clone the repository or download the script.**
+    ```shell
+    git clone git@github.com:TsitouhRanjafy/Algorithme-.git
+    ```
   - **Ensure you have Node.js installed.**
+    ```shell
+    cd Algorithme-
+    npm install
+    ```
 ## Usage
   - **Run the script using Node.js with the following syntax:**
   ```shell
