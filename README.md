@@ -4,7 +4,7 @@
 ## Installation
   - **Clone the repository or download the script.**
     ```shell
-    git clone git@github.com:TsitouhRanjafy/Algorithme-.git
+    git clone https://github.com/TsitouhRanjafy/Algorithme-.git
     ```
   - **Ensure you have Node.js installed.**
     ```shell
