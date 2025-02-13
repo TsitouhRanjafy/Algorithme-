@@ -1,6 +1,6 @@
 # Binary Logic CLI 
 > [!NOTE]
-> Install nodejs first on your machine
+> Install nodejs and typescript first on your machine
 ## Installation
   - **Clone the repository or download the script.**
     ```shell
@@ -25,17 +25,17 @@
 ## Examples
 
   ```shell
-    node script.js 1 ET 0
-    # Output: 0
+    tsc main.ts && node main.js 11 ET 01
+    # Output: [0,1]
 
-    node script.js 1 OU 0
-    # Output: 1
+    tsc main.ts && node main.js 100 OU 001
+    # Output: [1,0,1]
 
-    node script.js 1 NON
-    # Output: 0
+    tsc main.ts && node main.js 11100 NON
+    # Output: [0,0,0,1,1]
 
-    node script.js 1 IMPLIQUE 0
-    # Output: 0
+    tsc main.ts && node main.js 1 IMPLIQUE 0
+    # Output: [0]
   ```
 
 # Algorithms Collection
