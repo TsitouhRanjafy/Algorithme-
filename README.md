@@ -64,6 +64,6 @@ Explore a range of powerful algorithms implemented in Python 3.12.6, Typescript.
      Simple command-line interface (CLI) tool for performing basic binary logic operations: `AND`(ET),`OR`(OU), `NOT`(NON),`IMPLICATION`(IMPLIQUE)
 
 ## 🚀 Features
-- Written in Python 3.12.6
+- Written in Python 3.12.6 and Typescript 5.7.3
 - Focus on core algorithms, recursion, and backtracking
 - Clean, easy-to-understand code, optimized for performance
