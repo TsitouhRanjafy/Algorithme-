@@ -54,6 +54,10 @@ On conclut en donnant la liste des nombres premiers inférieur à N.
 
 Explore a range of powerful algorithms implemented in Python 3.12.6, Typescript. This repository includes efficient solutions for key algorithmic challenges, focusing on recursion, backtracking, and number theory.
 
+# Algorithms Collection
+
+Explore a range of powerful algorithms implemented in Python 3.12.6, Typescript. This repository includes efficient solutions for key algorithmic challenges, focusing on recursion, backtracking, and number theory.
+
 ## 📚 Algorithms Included
 
 ### 1. **Recursion & Backtracking**
@@ -74,11 +78,14 @@ Explore a range of powerful algorithms implemented in Python 3.12.6, Typescript.
  
 - 🔗 [Binary Logic CLI](https://github.com/TsitouhRanjafy/Algorithme-/blob/verite_binaire/main.ts)  
      Simple command-line interface (CLI) tool for performing basic binary logic operations: `AND`(ET),`OR`(OU), `NOT`(NON),`IMPLICATION`(IMPLIQUE)
-            
+  
+### 2. **Other**
+- 🔗 [Crible d'Eratosthene](https://github.com/TsitouhRanjafy/Algorithme-/tree/crible_eratosthene)
+  
 
 
 ## 🚀 Features
-- Written in Python 3.12.6
+- Written in Python 3.12.6, Typescript, Java, ... 
 - Focus on core algorithms, recursion, and backtracking
 - Clean, easy-to-understand code, optimized for performance
 
