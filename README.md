@@ -80,8 +80,8 @@ Explore a range of powerful algorithms implemented in Python 3.12.6, Typescript.
 - 🔗 [Binary Logic CLI](https://github.com/TsitouhRanjafy/Algorithme-/tree/verite_binaire)   
      Simple command-line interface (CLI) tool for performing basic binary logic operations: `AND`(ET),`OR`(OU), `NOT`(NON),`IMPLICATION`(IMPLIQUE)
 
-- 🔗 [Word Pattern]()
-    <hr><p>Given a <code>pattern</code> and a string <code>s</code>, find if <code>s</code>&nbsp;follows the same pattern.</p>
+- 🔗 [Word Pattern](https://github.com/TsitouhRanjafy/Algorithme-/tree/word-pattern)    
+    Given a `pattern` and a string `s`, find if `s` follows the same pattern.
 
   
 ### 2. **Other**
